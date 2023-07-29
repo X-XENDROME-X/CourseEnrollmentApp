@@ -5,7 +5,7 @@ import javafx.stage.Stage;
 import javafx.scene.Scene;
 import javafx.scene.layout.StackPane;
 
-public class Assignment6 extends Application {
+public class Main extends Application {
     public static final int WIDTH = 600, HEIGHT = 400;
 
     public void start(Stage stage) {
