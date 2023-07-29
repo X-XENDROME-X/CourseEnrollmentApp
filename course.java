@@ -1,5 +1,5 @@
 
-// The below Course class file enables the creation of Course objects.
+// The below class file enables the creation of Course objects.
 
 public class Course {
     private String subject;

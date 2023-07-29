@@ -1,4 +1,4 @@
-//This Java code defines a JavaFX application that manages course enrollment for a user. It provides a graphical interface with buttons, text fields, and checkboxes to add and drop courses. The user can select a course's subject, course number, and instructor, and the application displays the enrolled courses along with a total count.
+//Below defines a JavaFX application that manages course enrollment for a user. It provides a graphical interface with buttons, text fields, and checkboxes to add and drop courses. The user can select a course's subject, course number, and instructor, and the application displays the enrolled courses along with a total count.
 
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
